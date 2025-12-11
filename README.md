@@ -1,2 +1,3 @@
 # act7, NUM 36
-<img width="707" height="620" alt="image" src="https://github.com/user-attachments/assets/91060cf0-3f29-47f6-bfd1-8ca5915b28ee" />
+<img width="701" height="788" alt="image" src="https://github.com/user-attachments/assets/b6062690-8f30-406b-b87c-da593b4bf5ae" />
+
